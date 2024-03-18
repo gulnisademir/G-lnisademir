@@ -19,8 +19,6 @@
 
 [instagram]: https://www.instagram.com/gulnisademir
 [linkedin]: https://www.linkedin.com/in/gulnisademir/
-<br />
-
 
 ### 🔧 Languages and Tools:
 
