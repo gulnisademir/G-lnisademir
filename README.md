@@ -13,6 +13,7 @@
 
 
 <br />
+
 [linkedin]: https://www.linkedin.com/in/gulnisademir/
 
 ### 🔧 Languages and Tools:
