@@ -4,7 +4,6 @@
 
 ## Hi there!✨I'm Gülnisa and I'm Frontend Developer🚀!
 - 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other Frontend developer 👩‍💻 and mobile app designers 🎨
 - 🤔 Please contribute to my projects. Let's learn together🚀
 - 🥅 2024 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Happy coding!
